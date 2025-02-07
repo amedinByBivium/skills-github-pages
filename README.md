@@ -22,7 +22,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 ## Finish
 
 _Congratulations friend, you've completed this course!_
-### To open the Githbu page go to https://(your Github user).github.io/skills-github-pages/.
+### To open the Github page go to https://(your Github user).github.io/skills-github-pages/.
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
